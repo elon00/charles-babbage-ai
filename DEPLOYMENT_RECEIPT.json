@@ -1,0 +1,14 @@
+{
+  "project": "charles-babbage-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Gy6tW9G2DUvdFa6own8vmDmiBb1CJmmie8Wfn2FC1maG",
+  "vault_account": "3jRqhop3teWEZJH7QhDc4DcyPSKzRYcMgSR9WSoQpZVE",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "663TJHR7cr62ti56U93KBgiSiYaFM26UY7gY1EbWbKoQtSyj2RKqr91FN77J2Rx9bF2ZhHLpZQnsx4MA7xgELH4t",
+  "account_tx": "QDBcdbBq8tJXXAwVmctEzAcrdzeHooCjbDa5ouzEnBAvQz7CSxvhGbAJxb43hxBFWymyofC7puCY78SHVs3Uy7v",
+  "mint_tx": "5XrtTSgBK3bLcg3inpbCnfYKDLDYeBMiG5oj9vvvz3qHrDzhVmya6M5QTNPaGWrDKJt2Lgda1WDCRuWKhDfkoMot",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Gy6tW9G2DUvdFa6own8vmDmiBb1CJmmie8Wfn2FC1maG?cluster=devnet",
+  "timestamp": "2026-10-26 16:25:20 UTC"
+}
